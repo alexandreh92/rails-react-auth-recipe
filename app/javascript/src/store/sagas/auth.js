@@ -5,7 +5,9 @@ import AuthActions from "../ducks/auth";
 
 export function* signIn({ email, password }) {
   try {
-    const response = yield call(api.post, "sessions", { email, password });
+    const response = yield call(api.post, "login", {
+      user: { email, password }
+    });
 
     localStorage.setItem("@Omni:token", response.data.token);
 

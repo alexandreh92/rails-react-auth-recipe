@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  devise_for :users,
+  scope :api do
+    devise_for :users,
              path: '',
              path_names: {
                sign_in: 'login',
@@ -7,9 +8,11 @@ Rails.application.routes.draw do
                registration: 'signup'
              },
              controllers: {
-               sessions: 'sessions',
-               registrations: 'registrations'
+               sessions: 'api/sessions',
+               registrations: 'api/registrations'
              }
+  end
+  
   root to: 'react#index'
   
 

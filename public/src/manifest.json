@@ -1,21 +1,21 @@
 {
-  "App.js": "/src/js/App-2490993693e6433e958d.js",
-  "App.js.map": "/src/js/App-2490993693e6433e958d.js.map",
+  "App.js": "/src/js/App-3e792c0d2ec1e3a240b0.js",
+  "App.js.map": "/src/js/App-3e792c0d2ec1e3a240b0.js.map",
   "entrypoints": {
     "App": {
       "js": [
-        "/src/js/App-2490993693e6433e958d.js"
+        "/src/js/App-3e792c0d2ec1e3a240b0.js"
       ],
       "js.map": [
-        "/src/js/App-2490993693e6433e958d.js.map"
+        "/src/js/App-3e792c0d2ec1e3a240b0.js.map"
       ]
     },
     "index": {
       "js": [
-        "/src/js/index-9b2ed5494554a3eaf48c.js"
+        "/src/js/index-532744ea69ff2891a798.js"
       ],
       "js.map": [
-        "/src/js/index-9b2ed5494554a3eaf48c.js.map"
+        "/src/js/index-532744ea69ff2891a798.js.map"
       ]
     },
     "pages/Auth/SignIn/index": {
@@ -50,33 +50,57 @@
         "/src/js/routes/index-cb58739238985e80ef8b.js.map"
       ]
     },
-    "store/ducks/index": {
+    "services/api": {
       "js": [
-        "/src/js/store/ducks/index-846d45036f9ae81f57d5.js"
+        "/src/js/services/api-c2a56015f9efb57a1ffd.js"
       ],
       "js.map": [
-        "/src/js/store/ducks/index-846d45036f9ae81f57d5.js.map"
+        "/src/js/services/api-c2a56015f9efb57a1ffd.js.map"
+      ]
+    },
+    "store/ducks/auth": {
+      "js": [
+        "/src/js/store/ducks/auth-f3d56adc77044db2e136.js"
+      ],
+      "js.map": [
+        "/src/js/store/ducks/auth-f3d56adc77044db2e136.js.map"
+      ]
+    },
+    "store/ducks/index": {
+      "js": [
+        "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js"
+      ],
+      "js.map": [
+        "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js.map"
       ]
     },
     "store/index": {
       "js": [
-        "/src/js/store/index-b70bd1cadda5e935c7ff.js"
+        "/src/js/store/index-05e7220c9309c95d0226.js"
       ],
       "js.map": [
-        "/src/js/store/index-b70bd1cadda5e935c7ff.js.map"
+        "/src/js/store/index-05e7220c9309c95d0226.js.map"
+      ]
+    },
+    "store/sagas/auth": {
+      "js": [
+        "/src/js/store/sagas/auth-879fe871ccdf48476bca.js"
+      ],
+      "js.map": [
+        "/src/js/store/sagas/auth-879fe871ccdf48476bca.js.map"
       ]
     },
     "store/sagas/index": {
       "js": [
-        "/src/js/store/sagas/index-7ee66a433f157b6deee6.js"
+        "/src/js/store/sagas/index-942f3ace352339e1bfbf.js"
       ],
       "js.map": [
-        "/src/js/store/sagas/index-7ee66a433f157b6deee6.js.map"
+        "/src/js/store/sagas/index-942f3ace352339e1bfbf.js.map"
       ]
     }
   },
-  "index.js": "/src/js/index-9b2ed5494554a3eaf48c.js",
-  "index.js.map": "/src/js/index-9b2ed5494554a3eaf48c.js.map",
+  "index.js": "/src/js/index-532744ea69ff2891a798.js",
+  "index.js.map": "/src/js/index-532744ea69ff2891a798.js.map",
   "pages/Auth/SignIn/index.js": "/src/js/pages/Auth/SignIn/index-6e4690a9124607226650.js",
   "pages/Auth/SignIn/index.js.map": "/src/js/pages/Auth/SignIn/index-6e4690a9124607226650.js.map",
   "pages/Auth/SignUp/index.js": "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js",
@@ -85,10 +109,16 @@
   "pages/Main/index.js.map": "/src/js/pages/Main/index-4cfc7a867b1b0bf1ced0.js.map",
   "routes/index.js": "/src/js/routes/index-cb58739238985e80ef8b.js",
   "routes/index.js.map": "/src/js/routes/index-cb58739238985e80ef8b.js.map",
-  "store/ducks/index.js": "/src/js/store/ducks/index-846d45036f9ae81f57d5.js",
-  "store/ducks/index.js.map": "/src/js/store/ducks/index-846d45036f9ae81f57d5.js.map",
-  "store/index.js": "/src/js/store/index-b70bd1cadda5e935c7ff.js",
-  "store/index.js.map": "/src/js/store/index-b70bd1cadda5e935c7ff.js.map",
-  "store/sagas/index.js": "/src/js/store/sagas/index-7ee66a433f157b6deee6.js",
-  "store/sagas/index.js.map": "/src/js/store/sagas/index-7ee66a433f157b6deee6.js.map"
+  "services/api.js": "/src/js/services/api-c2a56015f9efb57a1ffd.js",
+  "services/api.js.map": "/src/js/services/api-c2a56015f9efb57a1ffd.js.map",
+  "store/ducks/auth.js": "/src/js/store/ducks/auth-f3d56adc77044db2e136.js",
+  "store/ducks/auth.js.map": "/src/js/store/ducks/auth-f3d56adc77044db2e136.js.map",
+  "store/ducks/index.js": "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js",
+  "store/ducks/index.js.map": "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js.map",
+  "store/index.js": "/src/js/store/index-05e7220c9309c95d0226.js",
+  "store/index.js.map": "/src/js/store/index-05e7220c9309c95d0226.js.map",
+  "store/sagas/auth.js": "/src/js/store/sagas/auth-879fe871ccdf48476bca.js",
+  "store/sagas/auth.js.map": "/src/js/store/sagas/auth-879fe871ccdf48476bca.js.map",
+  "store/sagas/index.js": "/src/js/store/sagas/index-942f3ace352339e1bfbf.js",
+  "store/sagas/index.js.map": "/src/js/store/sagas/index-942f3ace352339e1bfbf.js.map"
 }
