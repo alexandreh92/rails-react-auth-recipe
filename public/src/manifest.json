@@ -1,29 +1,29 @@
 {
-  "App.js": "/src/js/App-3e792c0d2ec1e3a240b0.js",
-  "App.js.map": "/src/js/App-3e792c0d2ec1e3a240b0.js.map",
+  "App.js": "/src/js/App-07eb44f6a9d034e1077b.js",
+  "App.js.map": "/src/js/App-07eb44f6a9d034e1077b.js.map",
   "entrypoints": {
     "App": {
       "js": [
-        "/src/js/App-3e792c0d2ec1e3a240b0.js"
+        "/src/js/App-07eb44f6a9d034e1077b.js"
       ],
       "js.map": [
-        "/src/js/App-3e792c0d2ec1e3a240b0.js.map"
+        "/src/js/App-07eb44f6a9d034e1077b.js.map"
       ]
     },
     "index": {
       "js": [
-        "/src/js/index-532744ea69ff2891a798.js"
+        "/src/js/index-8f7393688ca30dc1caab.js"
       ],
       "js.map": [
-        "/src/js/index-532744ea69ff2891a798.js.map"
+        "/src/js/index-8f7393688ca30dc1caab.js.map"
       ]
     },
     "pages/Auth/SignIn/index": {
       "js": [
-        "/src/js/pages/Auth/SignIn/index-6e4690a9124607226650.js"
+        "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js"
       ],
       "js.map": [
-        "/src/js/pages/Auth/SignIn/index-6e4690a9124607226650.js.map"
+        "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js.map"
       ]
     },
     "pages/Auth/SignUp/index": {
@@ -36,89 +36,99 @@
     },
     "pages/Main/index": {
       "js": [
-        "/src/js/pages/Main/index-4cfc7a867b1b0bf1ced0.js"
+        "/src/js/pages/Main/index-03b57010e04637b8b97f.js"
       ],
       "js.map": [
-        "/src/js/pages/Main/index-4cfc7a867b1b0bf1ced0.js.map"
+        "/src/js/pages/Main/index-03b57010e04637b8b97f.js.map"
       ]
     },
     "routes/index": {
       "js": [
-        "/src/js/routes/index-cb58739238985e80ef8b.js"
+        "/src/js/routes/index-76bb50705cc023d8fd09.js"
       ],
       "js.map": [
-        "/src/js/routes/index-cb58739238985e80ef8b.js.map"
+        "/src/js/routes/index-76bb50705cc023d8fd09.js.map"
       ]
     },
     "services/api": {
       "js": [
-        "/src/js/services/api-c2a56015f9efb57a1ffd.js"
+        "/src/js/services/api-34de532e395f7158286e.js"
       ],
       "js.map": [
-        "/src/js/services/api-c2a56015f9efb57a1ffd.js.map"
+        "/src/js/services/api-34de532e395f7158286e.js.map"
       ]
     },
     "store/ducks/auth": {
       "js": [
-        "/src/js/store/ducks/auth-f3d56adc77044db2e136.js"
+        "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js"
       ],
       "js.map": [
-        "/src/js/store/ducks/auth-f3d56adc77044db2e136.js.map"
+        "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js.map"
       ]
     },
     "store/ducks/index": {
       "js": [
-        "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js"
+        "/src/js/store/ducks/index-c8347357542896bfb67a.js"
       ],
       "js.map": [
-        "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js.map"
+        "/src/js/store/ducks/index-c8347357542896bfb67a.js.map"
       ]
     },
     "store/index": {
       "js": [
-        "/src/js/store/index-05e7220c9309c95d0226.js"
+        "/src/js/store/index-65c334a417127a8c1f5b.js"
       ],
       "js.map": [
-        "/src/js/store/index-05e7220c9309c95d0226.js.map"
+        "/src/js/store/index-65c334a417127a8c1f5b.js.map"
       ]
     },
     "store/sagas/auth": {
       "js": [
-        "/src/js/store/sagas/auth-879fe871ccdf48476bca.js"
+        "/src/js/store/sagas/auth-da41b39071faf8545ff0.js"
       ],
       "js.map": [
-        "/src/js/store/sagas/auth-879fe871ccdf48476bca.js.map"
+        "/src/js/store/sagas/auth-da41b39071faf8545ff0.js.map"
       ]
     },
     "store/sagas/index": {
       "js": [
-        "/src/js/store/sagas/index-942f3ace352339e1bfbf.js"
+        "/src/js/store/sagas/index-98c27ab1d495956e77dd.js"
       ],
       "js.map": [
-        "/src/js/store/sagas/index-942f3ace352339e1bfbf.js.map"
+        "/src/js/store/sagas/index-98c27ab1d495956e77dd.js.map"
+      ]
+    },
+    "styles/global": {
+      "js": [
+        "/src/js/styles/global-3223eed658663c88bc8c.js"
+      ],
+      "js.map": [
+        "/src/js/styles/global-3223eed658663c88bc8c.js.map"
       ]
     }
   },
-  "index.js": "/src/js/index-532744ea69ff2891a798.js",
-  "index.js.map": "/src/js/index-532744ea69ff2891a798.js.map",
-  "pages/Auth/SignIn/index.js": "/src/js/pages/Auth/SignIn/index-6e4690a9124607226650.js",
-  "pages/Auth/SignIn/index.js.map": "/src/js/pages/Auth/SignIn/index-6e4690a9124607226650.js.map",
+  "index.js": "/src/js/index-8f7393688ca30dc1caab.js",
+  "index.js.map": "/src/js/index-8f7393688ca30dc1caab.js.map",
+  "pages/Auth/SignIn/index.js": "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js",
+  "pages/Auth/SignIn/index.js.map": "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js.map",
   "pages/Auth/SignUp/index.js": "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js",
   "pages/Auth/SignUp/index.js.map": "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js.map",
-  "pages/Main/index.js": "/src/js/pages/Main/index-4cfc7a867b1b0bf1ced0.js",
-  "pages/Main/index.js.map": "/src/js/pages/Main/index-4cfc7a867b1b0bf1ced0.js.map",
-  "routes/index.js": "/src/js/routes/index-cb58739238985e80ef8b.js",
-  "routes/index.js.map": "/src/js/routes/index-cb58739238985e80ef8b.js.map",
-  "services/api.js": "/src/js/services/api-c2a56015f9efb57a1ffd.js",
-  "services/api.js.map": "/src/js/services/api-c2a56015f9efb57a1ffd.js.map",
-  "store/ducks/auth.js": "/src/js/store/ducks/auth-f3d56adc77044db2e136.js",
-  "store/ducks/auth.js.map": "/src/js/store/ducks/auth-f3d56adc77044db2e136.js.map",
-  "store/ducks/index.js": "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js",
-  "store/ducks/index.js.map": "/src/js/store/ducks/index-93fbc61f9fbcbdd9a0cd.js.map",
-  "store/index.js": "/src/js/store/index-05e7220c9309c95d0226.js",
-  "store/index.js.map": "/src/js/store/index-05e7220c9309c95d0226.js.map",
-  "store/sagas/auth.js": "/src/js/store/sagas/auth-879fe871ccdf48476bca.js",
-  "store/sagas/auth.js.map": "/src/js/store/sagas/auth-879fe871ccdf48476bca.js.map",
-  "store/sagas/index.js": "/src/js/store/sagas/index-942f3ace352339e1bfbf.js",
-  "store/sagas/index.js.map": "/src/js/store/sagas/index-942f3ace352339e1bfbf.js.map"
+  "pages/Main/index.js": "/src/js/pages/Main/index-03b57010e04637b8b97f.js",
+  "pages/Main/index.js.map": "/src/js/pages/Main/index-03b57010e04637b8b97f.js.map",
+  "routes/index.js": "/src/js/routes/index-76bb50705cc023d8fd09.js",
+  "routes/index.js.map": "/src/js/routes/index-76bb50705cc023d8fd09.js.map",
+  "services/api.js": "/src/js/services/api-34de532e395f7158286e.js",
+  "services/api.js.map": "/src/js/services/api-34de532e395f7158286e.js.map",
+  "store/ducks/auth.js": "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js",
+  "store/ducks/auth.js.map": "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js.map",
+  "store/ducks/index.js": "/src/js/store/ducks/index-c8347357542896bfb67a.js",
+  "store/ducks/index.js.map": "/src/js/store/ducks/index-c8347357542896bfb67a.js.map",
+  "store/index.js": "/src/js/store/index-65c334a417127a8c1f5b.js",
+  "store/index.js.map": "/src/js/store/index-65c334a417127a8c1f5b.js.map",
+  "store/sagas/auth.js": "/src/js/store/sagas/auth-da41b39071faf8545ff0.js",
+  "store/sagas/auth.js.map": "/src/js/store/sagas/auth-da41b39071faf8545ff0.js.map",
+  "store/sagas/index.js": "/src/js/store/sagas/index-98c27ab1d495956e77dd.js",
+  "store/sagas/index.js.map": "/src/js/store/sagas/index-98c27ab1d495956e77dd.js.map",
+  "styles/global.js": "/src/js/styles/global-3223eed658663c88bc8c.js",
+  "styles/global.js.map": "/src/js/styles/global-3223eed658663c88bc8c.js.map"
 }
