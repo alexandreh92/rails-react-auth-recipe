@@ -1,16 +1,12 @@
-class RegistrationsController < ApplicationController
-  def create
-    user = User.create!(
-      email: params[:user][:email],
-      password: params[:user][:password],
-      password_confirmation: params[:user][:password]
-    )
+# frozen_string_literal: true
 
-    if user
-      session[:user_id] = user.id
-      render json: { status: :created, user: user}
-    else
-      render json: {status: 500}
-    end
+class RegistrationsController < Devise::RegistrationsController
+  respond_to :json
+
+  def create
+    build_resource(sign_up_params)
+
+    resource.save
+    render_resource(resource)
   end
 end

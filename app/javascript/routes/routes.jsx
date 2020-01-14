@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom"
+import { BrowserRouter as Router, Switch, Redirect } from "react-router-dom"
+import { Route } from "react-router-async-routes";
 import axios from 'axios'
 import Home from "../components/home/Home"
 import Dashboard from "../components/dashboard/Dashboard";
@@ -8,7 +9,7 @@ import Dashboard from "../components/dashboard/Dashboard";
 const isUserLoggedIn = () =>{
   return axios.get("/logged_in", { withCredentials: true })
   .then(response => {
-    this.response = response.logged_in
+    this.response = response.data.logged_in
     return this.response
   })
 }

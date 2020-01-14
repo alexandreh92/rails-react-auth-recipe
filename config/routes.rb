@@ -1,9 +1,17 @@
 Rails.application.routes.draw do
+  devise_for :users,
+             path: '',
+             path_names: {
+               sign_in: 'login',
+               sign_out: 'logout',
+               registration: 'signup'
+             },
+             controllers: {
+               sessions: 'sessions',
+               registrations: 'registrations'
+             }
   root to: 'react#index'
-  resources :sessions, only: [:create]
-  delete :logout, to: "sessions#logout"
-  get :logged_in, to: "sessions#logged_in"
-  resources :registrations, only: [:create]
+  
 
   match '*path', to: 'react#index', via: :all
 end

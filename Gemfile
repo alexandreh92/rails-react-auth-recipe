@@ -19,11 +19,12 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
-# Use Active Model has_secure_password
-gem 'bcrypt', '~> 3.1.7'
 # Slim templates generator for Rails 3, 4 and 5 
 gem "slim-rails"
-gem 'rack-cors', require: 'rack/cors'
+# JWT token authentication with devise and rails
+gem 'devise-jwt'
+# Flexible authentication solution for Rails with Warden.
+gem 'devise'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
@@ -32,6 +33,8 @@ gem 'rack-cors', require: 'rack/cors'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
+  gem 'fabrication'
+  gem 'rspec-rails', '3.8'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
@@ -44,6 +47,10 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'pry'
+end
+
+group :test do
+  gem 'capybara', '~> 3.8'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
