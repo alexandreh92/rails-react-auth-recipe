@@ -1,134 +1,210 @@
 {
-  "App.js": "/src/js/App-07eb44f6a9d034e1077b.js",
-  "App.js.map": "/src/js/App-07eb44f6a9d034e1077b.js.map",
+  "App.js": "/src/js/App-2c75f6e0ca89d77dd830.js",
+  "App.js.map": "/src/js/App-2c75f6e0ca89d77dd830.js.map",
+  "components/MainContainer/index.js": "/src/js/components/MainContainer/index-8a9909d8708610aae977.js",
+  "components/MainContainer/index.js.map": "/src/js/components/MainContainer/index-8a9909d8708610aae977.js.map",
+  "components/test.js": "/src/js/components/test-16bfcef95b41d8cbddf7.js",
+  "components/test.js.map": "/src/js/components/test-16bfcef95b41d8cbddf7.js.map",
   "entrypoints": {
     "App": {
       "js": [
-        "/src/js/App-07eb44f6a9d034e1077b.js"
+        "/src/js/App-2c75f6e0ca89d77dd830.js"
       ],
       "js.map": [
-        "/src/js/App-07eb44f6a9d034e1077b.js.map"
+        "/src/js/App-2c75f6e0ca89d77dd830.js.map"
+      ]
+    },
+    "components/MainContainer/index": {
+      "js": [
+        "/src/js/components/MainContainer/index-8a9909d8708610aae977.js"
+      ],
+      "js.map": [
+        "/src/js/components/MainContainer/index-8a9909d8708610aae977.js.map"
+      ]
+    },
+    "components/test": {
+      "js": [
+        "/src/js/components/test-16bfcef95b41d8cbddf7.js"
+      ],
+      "js.map": [
+        "/src/js/components/test-16bfcef95b41d8cbddf7.js.map"
       ]
     },
     "index": {
       "js": [
-        "/src/js/index-8f7393688ca30dc1caab.js"
+        "/src/js/index-e9bed622f3dbc3799e9c.js"
       ],
       "js.map": [
-        "/src/js/index-8f7393688ca30dc1caab.js.map"
+        "/src/js/index-e9bed622f3dbc3799e9c.js.map"
       ]
     },
     "pages/Auth/SignIn/index": {
       "js": [
-        "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js"
+        "/src/js/pages/Auth/SignIn/index-b74ec40175aba789ce8e.js"
       ],
       "js.map": [
-        "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js.map"
+        "/src/js/pages/Auth/SignIn/index-b74ec40175aba789ce8e.js.map"
       ]
     },
     "pages/Auth/SignUp/index": {
       "js": [
-        "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js"
+        "/src/js/pages/Auth/SignUp/index-8a5595bea9f11963039b.js"
       ],
       "js.map": [
-        "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js.map"
+        "/src/js/pages/Auth/SignUp/index-8a5595bea9f11963039b.js.map"
       ]
     },
     "pages/Main/index": {
       "js": [
-        "/src/js/pages/Main/index-03b57010e04637b8b97f.js"
+        "/src/js/pages/Main/index-e6d9785e708f91e64689.js"
       ],
       "js.map": [
-        "/src/js/pages/Main/index-03b57010e04637b8b97f.js.map"
+        "/src/js/pages/Main/index-e6d9785e708f91e64689.js.map"
+      ]
+    },
+    "routes/guest": {
+      "js": [
+        "/src/js/routes/guest-896bc0bacbe5e7c6fef5.js"
+      ],
+      "js.map": [
+        "/src/js/routes/guest-896bc0bacbe5e7c6fef5.js.map"
+      ]
+    },
+    "routes/history": {
+      "js": [
+        "/src/js/routes/history-0a6ef7d58b7e31bda868.js"
+      ],
+      "js.map": [
+        "/src/js/routes/history-0a6ef7d58b7e31bda868.js.map"
       ]
     },
     "routes/index": {
       "js": [
-        "/src/js/routes/index-76bb50705cc023d8fd09.js"
+        "/src/js/routes/index-026e70ee1f7b9e070842.js"
       ],
       "js.map": [
-        "/src/js/routes/index-76bb50705cc023d8fd09.js.map"
+        "/src/js/routes/index-026e70ee1f7b9e070842.js.map"
+      ]
+    },
+    "routes/private": {
+      "js": [
+        "/src/js/routes/private-9d07a26d0fd10a0acbd5.js"
+      ],
+      "js.map": [
+        "/src/js/routes/private-9d07a26d0fd10a0acbd5.js.map"
       ]
     },
     "services/api": {
       "js": [
-        "/src/js/services/api-34de532e395f7158286e.js"
+        "/src/js/services/api-ac220e40a31d5316a878.js"
       ],
       "js.map": [
-        "/src/js/services/api-34de532e395f7158286e.js.map"
+        "/src/js/services/api-ac220e40a31d5316a878.js.map"
       ]
     },
     "store/ducks/auth": {
       "js": [
-        "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js"
+        "/src/js/store/ducks/auth-310ae67ca0c7602b6ce2.js"
       ],
       "js.map": [
-        "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js.map"
+        "/src/js/store/ducks/auth-310ae67ca0c7602b6ce2.js.map"
       ]
     },
     "store/ducks/index": {
       "js": [
-        "/src/js/store/ducks/index-c8347357542896bfb67a.js"
+        "/src/js/store/ducks/index-92acdc430bb1c8237f63.js"
       ],
       "js.map": [
-        "/src/js/store/ducks/index-c8347357542896bfb67a.js.map"
+        "/src/js/store/ducks/index-92acdc430bb1c8237f63.js.map"
       ]
     },
     "store/index": {
       "js": [
-        "/src/js/store/index-65c334a417127a8c1f5b.js"
+        "/src/js/store/index-67245df711ed3f553cc6.js"
       ],
       "js.map": [
-        "/src/js/store/index-65c334a417127a8c1f5b.js.map"
+        "/src/js/store/index-67245df711ed3f553cc6.js.map"
       ]
     },
     "store/sagas/auth": {
       "js": [
-        "/src/js/store/sagas/auth-da41b39071faf8545ff0.js"
+        "/src/js/store/sagas/auth-eee4e0c820dbde7db79c.js"
       ],
       "js.map": [
-        "/src/js/store/sagas/auth-da41b39071faf8545ff0.js.map"
+        "/src/js/store/sagas/auth-eee4e0c820dbde7db79c.js.map"
       ]
     },
     "store/sagas/index": {
       "js": [
-        "/src/js/store/sagas/index-98c27ab1d495956e77dd.js"
+        "/src/js/store/sagas/index-33d9e54f022e2eef7f1b.js"
       ],
       "js.map": [
-        "/src/js/store/sagas/index-98c27ab1d495956e77dd.js.map"
+        "/src/js/store/sagas/index-33d9e54f022e2eef7f1b.js.map"
       ]
     },
     "styles/global": {
       "js": [
-        "/src/js/styles/global-3223eed658663c88bc8c.js"
+        "/src/js/styles/global-c676d50708b18a2b8630.js"
       ],
       "js.map": [
-        "/src/js/styles/global-3223eed658663c88bc8c.js.map"
+        "/src/js/styles/global-c676d50708b18a2b8630.js.map"
+      ]
+    },
+    "styles/menu": {
+      "js": [
+        "/src/js/styles/menu-9f8b2fbfc1932f471981.js"
+      ],
+      "js.map": [
+        "/src/js/styles/menu-9f8b2fbfc1932f471981.js.map"
       ]
     }
   },
-  "index.js": "/src/js/index-8f7393688ca30dc1caab.js",
-  "index.js.map": "/src/js/index-8f7393688ca30dc1caab.js.map",
-  "pages/Auth/SignIn/index.js": "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js",
-  "pages/Auth/SignIn/index.js.map": "/src/js/pages/Auth/SignIn/index-3e491cf45ee15a1b5e39.js.map",
-  "pages/Auth/SignUp/index.js": "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js",
-  "pages/Auth/SignUp/index.js.map": "/src/js/pages/Auth/SignUp/index-334bb145f504aad24f73.js.map",
-  "pages/Main/index.js": "/src/js/pages/Main/index-03b57010e04637b8b97f.js",
-  "pages/Main/index.js.map": "/src/js/pages/Main/index-03b57010e04637b8b97f.js.map",
-  "routes/index.js": "/src/js/routes/index-76bb50705cc023d8fd09.js",
-  "routes/index.js.map": "/src/js/routes/index-76bb50705cc023d8fd09.js.map",
-  "services/api.js": "/src/js/services/api-34de532e395f7158286e.js",
-  "services/api.js.map": "/src/js/services/api-34de532e395f7158286e.js.map",
-  "store/ducks/auth.js": "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js",
-  "store/ducks/auth.js.map": "/src/js/store/ducks/auth-590fe8e03ae4ce9615c6.js.map",
-  "store/ducks/index.js": "/src/js/store/ducks/index-c8347357542896bfb67a.js",
-  "store/ducks/index.js.map": "/src/js/store/ducks/index-c8347357542896bfb67a.js.map",
-  "store/index.js": "/src/js/store/index-65c334a417127a8c1f5b.js",
-  "store/index.js.map": "/src/js/store/index-65c334a417127a8c1f5b.js.map",
-  "store/sagas/auth.js": "/src/js/store/sagas/auth-da41b39071faf8545ff0.js",
-  "store/sagas/auth.js.map": "/src/js/store/sagas/auth-da41b39071faf8545ff0.js.map",
-  "store/sagas/index.js": "/src/js/store/sagas/index-98c27ab1d495956e77dd.js",
-  "store/sagas/index.js.map": "/src/js/store/sagas/index-98c27ab1d495956e77dd.js.map",
-  "styles/global.js": "/src/js/styles/global-3223eed658663c88bc8c.js",
-  "styles/global.js.map": "/src/js/styles/global-3223eed658663c88bc8c.js.map"
+  "index.js": "/src/js/index-e9bed622f3dbc3799e9c.js",
+  "index.js.map": "/src/js/index-e9bed622f3dbc3799e9c.js.map",
+  "media/fonts/brand-icons.eot": "/src/media/fonts/brand-icons-13db00b7.eot",
+  "media/fonts/brand-icons.svg": "/src/media/fonts/brand-icons-a1a749e8.svg",
+  "media/fonts/brand-icons.ttf": "/src/media/fonts/brand-icons-c5ebe0b3.ttf",
+  "media/fonts/brand-icons.woff": "/src/media/fonts/brand-icons-a046592b.woff",
+  "media/fonts/brand-icons.woff2": "/src/media/fonts/brand-icons-e8c322de.woff2",
+  "media/fonts/icons.eot": "/src/media/fonts/icons-8e3c7f55.eot",
+  "media/fonts/icons.svg": "/src/media/fonts/icons-962a1bf3.svg",
+  "media/fonts/icons.ttf": "/src/media/fonts/icons-b87b9ba5.ttf",
+  "media/fonts/icons.woff": "/src/media/fonts/icons-faff9214.woff",
+  "media/fonts/icons.woff2": "/src/media/fonts/icons-0ab54153.woff2",
+  "media/fonts/outline-icons.eot": "/src/media/fonts/outline-icons-701ae6ab.eot",
+  "media/fonts/outline-icons.svg": "/src/media/fonts/outline-icons-82f60bd0.svg",
+  "media/fonts/outline-icons.ttf": "/src/media/fonts/outline-icons-ad97afd3.ttf",
+  "media/fonts/outline-icons.woff": "/src/media/fonts/outline-icons-ef60a4f6.woff",
+  "media/fonts/outline-icons.woff2": "/src/media/fonts/outline-icons-cd6c777f.woff2",
+  "media/images/flags.png": "/src/media/images/flags-9c74e172.png",
+  "pages/Auth/SignIn/index.js": "/src/js/pages/Auth/SignIn/index-b74ec40175aba789ce8e.js",
+  "pages/Auth/SignIn/index.js.map": "/src/js/pages/Auth/SignIn/index-b74ec40175aba789ce8e.js.map",
+  "pages/Auth/SignUp/index.js": "/src/js/pages/Auth/SignUp/index-8a5595bea9f11963039b.js",
+  "pages/Auth/SignUp/index.js.map": "/src/js/pages/Auth/SignUp/index-8a5595bea9f11963039b.js.map",
+  "pages/Main/index.js": "/src/js/pages/Main/index-e6d9785e708f91e64689.js",
+  "pages/Main/index.js.map": "/src/js/pages/Main/index-e6d9785e708f91e64689.js.map",
+  "routes/guest.js": "/src/js/routes/guest-896bc0bacbe5e7c6fef5.js",
+  "routes/guest.js.map": "/src/js/routes/guest-896bc0bacbe5e7c6fef5.js.map",
+  "routes/history.js": "/src/js/routes/history-0a6ef7d58b7e31bda868.js",
+  "routes/history.js.map": "/src/js/routes/history-0a6ef7d58b7e31bda868.js.map",
+  "routes/index.js": "/src/js/routes/index-026e70ee1f7b9e070842.js",
+  "routes/index.js.map": "/src/js/routes/index-026e70ee1f7b9e070842.js.map",
+  "routes/private.js": "/src/js/routes/private-9d07a26d0fd10a0acbd5.js",
+  "routes/private.js.map": "/src/js/routes/private-9d07a26d0fd10a0acbd5.js.map",
+  "services/api.js": "/src/js/services/api-ac220e40a31d5316a878.js",
+  "services/api.js.map": "/src/js/services/api-ac220e40a31d5316a878.js.map",
+  "store/ducks/auth.js": "/src/js/store/ducks/auth-310ae67ca0c7602b6ce2.js",
+  "store/ducks/auth.js.map": "/src/js/store/ducks/auth-310ae67ca0c7602b6ce2.js.map",
+  "store/ducks/index.js": "/src/js/store/ducks/index-92acdc430bb1c8237f63.js",
+  "store/ducks/index.js.map": "/src/js/store/ducks/index-92acdc430bb1c8237f63.js.map",
+  "store/index.js": "/src/js/store/index-67245df711ed3f553cc6.js",
+  "store/index.js.map": "/src/js/store/index-67245df711ed3f553cc6.js.map",
+  "store/sagas/auth.js": "/src/js/store/sagas/auth-eee4e0c820dbde7db79c.js",
+  "store/sagas/auth.js.map": "/src/js/store/sagas/auth-eee4e0c820dbde7db79c.js.map",
+  "store/sagas/index.js": "/src/js/store/sagas/index-33d9e54f022e2eef7f1b.js",
+  "store/sagas/index.js.map": "/src/js/store/sagas/index-33d9e54f022e2eef7f1b.js.map",
+  "styles/global.js": "/src/js/styles/global-c676d50708b18a2b8630.js",
+  "styles/global.js.map": "/src/js/styles/global-c676d50708b18a2b8630.js.map",
+  "styles/menu.js": "/src/js/styles/menu-9f8b2fbfc1932f471981.js",
+  "styles/menu.js.map": "/src/js/styles/menu-9f8b2fbfc1932f471981.js.map"
 }

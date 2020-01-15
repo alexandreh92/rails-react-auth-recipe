@@ -30,6 +30,7 @@
     "redux-thunk": "^2.3.0",
     "reduxsauce": "^1.1.1",
     "seamless-immutable": "^7.1.4",
+    "semantic-ui-css": "^2.4.1",
     "styled-components": "^5.0.0",
     "turbolinks": "^5.2.0"
   },
